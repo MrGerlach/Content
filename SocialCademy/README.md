@@ -50,7 +50,7 @@ FirebaseStorage manager, responding to errors
 ![Posts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Posts.png?raw=true =295x633)
 
 
-![Tony'sPosts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/TonysPosts.png?raw=true){: width=”50%”}
+![Tony'sPosts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/TonysPosts.png?raw=true){:height=”50%” width=”50%”}
 
 
 ![Favorites](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Favorites.png?raw=true){: width=”50%”}
