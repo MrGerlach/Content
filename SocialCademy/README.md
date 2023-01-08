@@ -28,7 +28,7 @@ For posts, comments, user's profile, authentication, to sign in or log in and cr
 ViewModelFactory is responsible for navigating between comments, posts and user's posts.
 Posts & comments are divided into smaller sections. We are working on rows level and then on the list of whole.
 
-### **Vievs**
+### **Views**
 Just like in View Models. :)
 
 ### **SupportingViews**
@@ -47,8 +47,16 @@ FirebaseStorage manager, responding to errors
 
 ## Below more screen shots: 
 
-![Posts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Posts.png?raw=true)
-![Tony'sPosts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/TonysPosts.png?raw=true)
-![Favorites](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Favorites.png?raw=true)
-![Profile](https://github.com/MrGerlach/Content/blob/main/SocialCademy/ProfilePic.png?raw=true)
-![Search](https://github.com/MrGerlach/Content/blob/main/SocialCademy/SearchTor.png?raw=true)
+![Posts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Posts.png?raw=true){: width=”50%”}
+
+
+![Tony'sPosts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/TonysPosts.png?raw=true){: width=”50%”}
+
+
+![Favorites](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Favorites.png?raw=true){: width=”50%”}
+
+
+![Profile](https://github.com/MrGerlach/Content/blob/main/SocialCademy/ProfilePic.png?raw=true){: width=”50%”}
+
+
+![Search](https://github.com/MrGerlach/Content/blob/main/SocialCademy/SearchTor.png?raw=true){: width=”50%”}
