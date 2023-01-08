@@ -47,7 +47,7 @@ FirebaseStorage manager, responding to errors
 
 ## Below more screen shots: 
 
-![Posts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Posts.png?raw=true){: width=”50%”}
+![Posts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Posts.png?raw=true =295x633)
 
 
 ![Tony'sPosts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/TonysPosts.png?raw=true){: width=”50%”}
