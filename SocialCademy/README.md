@@ -44,3 +44,11 @@ Fetching and managing posts and comments.
 FirebaseStorage manager, responding to errors 
 
 ![AnyComments?](https://github.com/MrGerlach/Content/blob/main/SocialCademy/AnyComments.png?raw=true)
+
+## Below more screen shots: 
+
+![Posts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Posts.png?raw=true)
+![Tony'sPosts](https://github.com/MrGerlach/Content/blob/main/SocialCademy/TonysPosts.png?raw=true)
+![Favorites](https://github.com/MrGerlach/Content/blob/main/SocialCademy/Favorites.png?raw=true)
+![Profile](https://github.com/MrGerlach/Content/blob/main/SocialCademy/ProfilePic.png?raw=true)
+![Search](https://github.com/MrGerlach/Content/blob/main/SocialCademy/SearchTor.png?raw=true)
